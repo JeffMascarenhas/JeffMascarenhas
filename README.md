@@ -27,6 +27,5 @@ Tenho interesse em projetos que envolvam APIs, sistemas de autenticação e apli
 
 
 ### 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/jefferson-mascarenhas-2b6014188/
+- LinkedIn: https://www.linkedin.com/in/jefferson-mascarenhas
 - Email: jeffersonmascarenhas28@gmail.com
-  
